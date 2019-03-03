@@ -18,3 +18,4 @@ Weatherby feels that this word, Technik, is a convenient encapsulation of Kappâ€
 
 I found Weatherbyâ€™s dissection of the word instrumental in my understanding what this book is about and why it matters. The cultural mechanics of technology are necessarily indiscernible from the products it creates in a comprehensive analysis of its entirety.
 
+
