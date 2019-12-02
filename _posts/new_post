@@ -1,0 +1,4 @@
+DATE=$(date "+%Y-%m-%d")
+echo "making new post for: "
+echo $DATE
+cp new_post_default $DATE-.md
